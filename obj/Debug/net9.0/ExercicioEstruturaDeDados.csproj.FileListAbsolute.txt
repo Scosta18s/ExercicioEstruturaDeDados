@@ -1,0 +1,15 @@
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\bin\Debug\net9.0\ExercicioEstruturaDeDados.exe
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\bin\Debug\net9.0\ExercicioEstruturaDeDados.deps.json
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\bin\Debug\net9.0\ExercicioEstruturaDeDados.runtimeconfig.json
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\bin\Debug\net9.0\ExercicioEstruturaDeDados.dll
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\bin\Debug\net9.0\ExercicioEstruturaDeDados.pdb
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.AssemblyInfoInputs.cache
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.AssemblyInfo.cs
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.csproj.CoreCompileInputs.cache
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.sourcelink.json
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.dll
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\refint\ExercicioEstruturaDeDados.dll
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.pdb
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ExercicioEstruturaDeDados.genruntimeconfig.cache
+D:\ADS-IVJ\ADS Dependencias\ESTDAD\Exercicios_ListaEncadeada_Pilha_Fila\ExercicioEstruturaDeDados\obj\Debug\net9.0\ref\ExercicioEstruturaDeDados.dll
