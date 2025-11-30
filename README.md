@@ -7,3 +7,9 @@ c. Tenha uma propriedade somente leitura (get) que retorna o número de elemento
 d. Implemente uma propriedade somente leitura (get) para retornar o nó que se encontra no final da lista.
 e. Implemente uma propriedade somente leitura (get) para
 retornar o nó que se encontra no início da lista.
+
+3) No programa criado na questão 2, crie o método principal (Main) e utilize-o para testar a sua lista, seguindo os passos abaixo.
+a. Instancie uma lista (chamaremos essa lista de listaPrincipal),adicione 50 números informados pelo usuário na listaPrincipal.
+b. Remova 25 números da listaPrincipal.
+c. Crie um procedimento que receba por parâmetro a lista instanciada no passo (a). Esse procedimento deve imprimir o percentual de números pares e o percentual de números ímpares existentes na lista.
+d. Crie um procedimento que receba uma lista de inteiros por parâmetro e ordene os elementos dessa lista. Faça a chamada a este procedimento passando a listaPrincipal por parâmetro.
