@@ -88,6 +88,44 @@ public class ListaEncadeada
         return no1 == null && no2 == null;
     }
 
+    public void Adicionar(int valor)
+    {
+        if (valor % 2 == 0)
+            AdicionarNoFinal(valor);
+        else
+            AdicionarNoInicio(valor);
+    }
+
+    public void Remover()
+    {
+        if (inicio == null)
+            throw new Exception("A lista está vazia");
+
+        if (inicio.Valor % 2 == 0)
+            RemoverNoInicio();
+        else
+            RemoverNoFinal();
+    }
+
+    public int Quantidade
+    {
+        get
+        {
+            int contador = 0;
+            var atual = inicio;
+
+            while (atual != null)
+            {
+                contador++;
+                atual = atual.Proximo;
+            }
+
+            return contador;
+        }
+    }
+
+    public No? NoFinal => fim;
+    public No? NoInicio => inicio;
     private No? inicio = null;
     private No? fim = null;
 }
